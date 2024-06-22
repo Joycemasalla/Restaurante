@@ -4,11 +4,11 @@ export default function About() {
         <div id="about">
             <div id="aboutImg"></div>
             <div id="aboutText">
-                <h4 id="aboutHeading">NOSSA HISTORIA</h4><br />
-                <h1>Sua principal referencia em refeição</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea delectus eius laudantium. Dignissimos odit sit doloremque maiores itaque quibusdam natus vitae neque. Vel laudantium, ipsum nulla adipisci molestias ad ipsa.</p>
+                <h4 id="aboutHeading" >NOSSA HISTORIA</h4><br />
+                <h1>Bem-vindo ao Masalla Food, onde tradição e inovação se unem para criar uma experiência única.</h1>
+                <p>Nossa missão é proporcionar aos nossos clientes uma experiência culinária única e memorável, utilizando os ingredientes mais frescos e de alta qualidade. Acreditamos que cada refeição deve ser uma jornada sensorial, onde os sabores, aromas e texturas se combinam para criar momentos especiais.</p>
                 <br />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate magnam assumenda ex repellendus doloremque ad vero perspiciatis ipsam officiis ea, quasi facere rem ipsa. Ut harum dicta amet iure repellat.</p>
+                <p>Nossa equipe é composta por chefs talentosos e dedicados, que trazem consigo anos de experiência e uma paixão inabalável pela gastronomia.</p>
             </div>
         </div>
     )

@@ -84,7 +84,7 @@ const Navbar = () => {
                 <label htmlFor="click" className="menu-btn">
                     <i className="fas fa-bars"></i>
                     <div id="logo">
-                        <Link to="/" className='navbar-brand'><h1>Restaurant</h1></Link>
+                        <Link to="/" className='navbar-brand'><h1>Masalla Food</h1></Link>
                     </div>
                 </label>
                 <ul>
@@ -94,7 +94,6 @@ const Navbar = () => {
                     <li><NavLink to="/pricing" onClick={handleMenuItemClick}>Produtos</NavLink></li>
                     <li><NavLink to="/team" onClick={handleMenuItemClick}>Equipe</NavLink></li>
                     <li><NavLink to="/contact" onClick={handleMenuItemClick}>Contato</NavLink></li>
-                    <li >  <button onClick={toggleModal} className='btn btn-signup show' >sdfgfsdgdfgdfgd</button></li>
                 </ul>
                 <div className='btn-main hide'>
                     <button onClick={toggleModal} className='btn btn-signup hide'>Assinar</button></div>
